@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Suite">
+
+  <test name="Extent Report Demo">
+    <classes>
+       <class name="hcyclewala.UploadDownload"/>
+    </classes>
+  </test>
+</suite>
